@@ -1,3 +1,7 @@
+// SATRIO AJI NUGROHO
+// 103062300080
+// S1IT-KJ-23-002
+
 package main
 
 import (
